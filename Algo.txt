@@ -10,3 +10,5 @@ Greet Delivery person
 Accept order
 Did we pay online or over phone
 Tip delivery person 
+Eat pizza
+Are we still hungry? See step 1 
